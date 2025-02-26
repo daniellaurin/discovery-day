@@ -9,6 +9,8 @@ Our setup consists of:
 - One Cisco router (RT01) configured as "Router on a Stick"
 - Two client PCs in separate VLANs
 
+
+
 ![Network Topology](/images/topology.png)
 
 ## IP Addressing Scheme
